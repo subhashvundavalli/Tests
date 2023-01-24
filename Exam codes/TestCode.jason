@@ -39,5 +39,5 @@
 			}
 		}
 	}
-	findMultiples(20);
+	findMultiples(100);
 </script>
