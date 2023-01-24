@@ -1,4 +1,4 @@
-<script>
+
 
 	function findMultiples(n)
 	{
@@ -40,4 +40,4 @@
 		}
 	}
 	findMultiples(100);
-</script>
+
